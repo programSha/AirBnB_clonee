@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Resources
 Read or watch:
 
@@ -24,3 +25,6 @@ What is a class
 What is a selector
 How to compute CSS Specificity Value
 What are Box properties in CSS
+=======
+0x01. AirBnB clone - Web static----front-end
+>>>>>>> a3736b198986885ffc01efe78b37fcdc9d75e690
